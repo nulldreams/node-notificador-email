@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.8",
+    "node-schedule": "^1.2.1",
+    "nodemailer": "^4.0.1",
+    "underscore": "^1.8.3"
+  }
+}
