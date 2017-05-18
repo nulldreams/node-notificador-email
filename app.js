@@ -73,8 +73,8 @@ var EnviarEmail = (notificacao, assinante, callback) => {
         service: 'gmail',
         port: 587,
         auth: {
-            user: 'nulldreams@gmail.com',
-            pass: '88021963'
+            user: '__yourEmail',
+            pass: '__yourPassword'
         }
     })
 
